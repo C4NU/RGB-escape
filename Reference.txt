@@ -1,0 +1,15 @@
+1. https://cesanta.com/binary.html / 몽구스 웹 서버
+2. https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6
+/ Tiled 맵 에디터 설명
+3. https://itnext.io/modular-game-worlds-in-phaser-3-tilemaps-2-dynamic-platformer-3d68e73d494
+/ Platformer Tiled 설명
+4. http://labs.phaser.io/edit.html?src=src%5Cphysics%5Carcade%5Csimple%20body.js
+/ 플레이어 bounding box 체크
+5. https://phaser.io/examples/v2/arcade-physics/offset-bounding-box
+/ 플레이어 bounding box 사이즈 변경
+6. https://phaser.io/examples/v3/view/scenes/restart-a-scene
+/ scene restart
+7. https://freesound.org/people/Antikore/sounds/457193/
+/ Player Jump Sound Effect
+8. https://tinyurl.com/r2pqnc3
+/ Background Music
